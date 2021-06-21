@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 图形学作业访问
 
-You can use the [editor on GitHub](https://github.com/Donsome/Donsome.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Donsome/Donsome.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [五角星](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E4%BA%94%E8%A7%92%E6%98%9F/index.html)
+- [五角星2](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E4%BA%94%E8%A7%92%E6%98%9F/index2.html)
+- [立方体](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%AB%8B%E6%96%B9%E4%BD%93/index.html)
+- [球体](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%90%83/index.html)
+- [投影矩阵的阴影](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E9%98%B4%E5%BD%B11/index.html)
+- [纹理映射的阴影](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E9%98%B4%E5%BD%B12/index.html)
+- [反射1](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%8E%AF%E5%A2%83%E8%B4%B4%E5%9B%BE/index.html)
+- [反射2](https://donsome.github.io/%E5%9B%BE%E5%BD%A2%E5%AD%A6/%E7%8E%AF%E5%A2%83%E8%B4%B4%E5%9B%BE/index2.html) (可能存在加载不出来的情况,多刷新几次尝试)
